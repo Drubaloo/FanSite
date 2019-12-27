@@ -1,0 +1,27 @@
+body {
+    background-position: center;
+    background-color: #eee4dd;
+    font-family: 'Calligraffitti', 'Bad Script', 'Nova Script', cursive;
+    
+}
+
+.navbar {
+    background-color: #3a4521 !important;
+    
+}
+
+.navbar-brand {
+    color: #dce3e0;
+}
+
+.nav-link {
+    color: #dce3e0;
+}
+
+.nav-link:hover {
+    color: #eee4dd;
+}
+
+.homeJumbo {
+    justify-content: center;
+}
