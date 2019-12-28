@@ -25,3 +25,36 @@ body {
 .homeJumbo {
     justify-content: center;
 }
+
+.container {
+    background-color: #dce3e0;
+    border: solid #6c5e37;
+    margin-top: 2rem;
+}
+
+.introTitle {
+    margin: auto;
+}
+
+.homeP {
+    font-family: 'Bad Script', 'Nova Script', cursive;
+    
+}
+
+.homeBtn {
+    background-color: #0b0b14;
+    margin: auto;
+}
+
+.homeBorder {
+    border-bottom: #6c5e37;
+}
+
+.creationFont {
+    color: #3a4521;
+} 
+
+.card {
+    background: none !important;
+    border: none;
+}
