@@ -62,3 +62,7 @@ body {
 .ainur {
     border-radius: 50% !important;
 }
+
+.btn-primary {
+    background-color: #3a4521 !important;
+}
